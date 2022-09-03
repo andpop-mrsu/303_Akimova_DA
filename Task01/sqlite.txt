@@ -1,9 +1,15 @@
 3.39.2
+mode ascii
 mode csv
 mode column
 mode html
 mode insert
+mode json
 mode line
 mode list
+mode markdown
+mode qbox
+mode quote
+mode table
 mode tabs
 mode tcl
